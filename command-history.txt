@@ -1,0 +1,39 @@
+    1  sudo apt install gh
+    2  gh -v
+    3  gh auth login
+    4  sudo apt install
+    5  sudo apt update
+    6  sudo apt install neofetch
+    7  sudo apt install git
+    8  sudo apt install gdebi-core
+    9  sudo apt install wget
+   10  wget https://dl.google.com/linux/direct/goole-chrome-stable_current_amd64.deb
+   11  wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+   12  sudo gdebi google-chrome-stable_current_amd64.deb
+   13  google-chrome
+   14  git --version
+   15  curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.37.2/install.sh | bash
+   16  nvm -v
+   17  nvm --v
+   18  sudo apt install curl
+   19  nvm --v
+   20  curl -o- https://raw.githubusercontent.com/creationix/nvm/master/install.sh | bash
+   21  source ~/.bashrc
+   22  nvm --v
+   23  nvm install v14.15.4
+   24  git -v
+   25  npm --version
+   26  node -v
+   27  clone git https://github.com/misterpotabi/projek-uas-komdat uas-komdat-24
+   28  git clone https://github.com/misterpotabi/projek-uas-komdat uas-komdat-24
+   29  ls
+   30  cd uas-komdaat-24
+   31  cd uas-komdat-24
+   32  ls
+   33  ls -a
+   34  sudo rm -r .git
+   35  ls -a
+   36  npm install
+   37  code .
+   38  npm run start
+   39  history > command-history.txt
